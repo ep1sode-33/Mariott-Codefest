@@ -1,0 +1,15 @@
+.venv/
+cache/
+__pycache__/
+hel.csv
+Book1.csv
+hi.csv
+hotel_reviews.json
+hotel.json
+hotel_reviews.csv
+uscounties.csv
+temperature.csv
+offering.json
+review.json
+/dist/
+/build/
